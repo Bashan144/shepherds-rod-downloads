@@ -1,0 +1,14 @@
+{
+  "schemaVersion": 1,
+  "appId": "org.shepherdsrod.desktop",
+  "platform": "windows",
+  "architecture": "x64",
+  "version": "0.3.72",
+  "build": 85,
+  "installer": {
+    "url": "https://github.com/Bashan144/shepherds-rod-downloads/releases/download/v0.3.72/ShepherdsRod-0.3.72-Setup.exe",
+    "sizeBytes": 217237679,
+    "sha256": "aa895bab1e775eee817aaa51f96e2c49a39630709cdabc237f41f82e32f1f742"
+  },
+  "releaseNotes": "Optional Windows updates: startup and daily checks while the app is running, quiet notifications, Later, remind tomorrow and skip a version. Downloads and installation require your choice. The Tract 6 quiz, all progress, bookmarks, highlights and downloaded audiobooks are preserved."
+}
